@@ -1,7 +1,7 @@
 # Python Tasks 
 Module 2 Assingments.
 
-This repository contains two Python scripts:
+This repository contains four Python scripts:
 
 ## Task 1
 - Description: Program that take input of two numbers and gives there Mathematical Operations.
@@ -11,6 +11,8 @@ This repository contains two Python scripts:
 - Description: Create a Personalized Greeting
 
 - File: `assingTask2.py`
+  # Python Tasks 
+Module 3 Assingments.
 
 Task 3 — Check if a Number is Even or Odd
 file:assign3.py
