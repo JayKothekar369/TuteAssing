@@ -28,13 +28,11 @@ Write a Python program that: Uses a for loop or while loop Calculates the total 
 
 # Python Tasks
 Module 4 assingment
-
+folder :- JayKothekar_Assingment3
 Task 5:- Calculate Factorial Using a Function 
-file:
+file: Factorial using funct.py
 
 Task 6:-Using the Math Module for Calculations
-file: 
-
-
+file: Cal using Math module.py
 
 
