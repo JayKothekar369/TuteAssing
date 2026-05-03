@@ -26,7 +26,14 @@ file: assign4.py
 
 Write a Python program that: Uses a for loop or while loop Calculates the total sum of numbers from 1 to 50
 
+# Python Tasks
+Module 4 assingment
 
+Task 5:- Calculate Factorial Using a Function 
+file:
+
+Task 6:-Using the Math Module for Calculations
+file: 
 
 
 
